@@ -3,7 +3,7 @@
 </p>
 
 <h1>VMware Workstation - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This project provides a step-by-step guide for installing VMware Workstation Pro and preparing a Windows Server 2022 ISO for use in a virtualized lab environment.<br />
 
 
 <h2>Video Demonstration</h2>
