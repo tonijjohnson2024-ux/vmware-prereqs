@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="vmware-install-complete.png"/>
 </p>
 
 <h1>VMware Workstation - Prerequisites and Installation</h1>
