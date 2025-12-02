@@ -78,7 +78,7 @@ Restart your computer if prompted.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="server2.png"/>
 </p>
 <p>
   
