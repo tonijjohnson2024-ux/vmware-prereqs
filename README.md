@@ -81,6 +81,22 @@ Restart your computer if prompted.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+## Download the Server ISO
+
+Visit the Microsoft Evaluation Center:
+https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
+
+Select Download the ISO.
+
+Fill out the brief form (name, email, role).
+
+Start the download.
+
+Download time: 5–10 minutes (depending on internet speed)
+
+You should now see the Windows Server 2022 ISO file in your Downloads folder.
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <br />
