@@ -96,7 +96,8 @@ Start the download.
 Download time: 5–10 minutes (depending on internet speed)
 
 You should now see the Windows Server 2022 ISO file in your Downloads folder.
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="server.png"/>
 
 </p>
 <br />
