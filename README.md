@@ -61,7 +61,7 @@ Download the installer for your system.
 
 Locate the downloaded installer in your Downloads folder.
 
-<img src="vmwdwnld.png"/>
+<img src="vmwareapp.png"/>
 
 Right-click → Run as Administrator
 
