@@ -4,7 +4,7 @@
 
 <h1>VMware Workstation - Prerequisites and Installation</h1>
 This project covers the prerequisites for installing VMware Workstation Pro and preparing a Windows Server 2022 ISO for use in a virtualized lab environment.  
-Completing these steps ensures your system is ready for virtualization labs and foundational IT exercises as part of the CourseCareers IT Certification program.<br />
+Completing these steps ensures your system is ready for virtualization labs.<br />
 
 
 <h2>Video Demonstration</h2>
