@@ -45,13 +45,7 @@ Create a profile / user account.
 
 Log in to the portal.
 
-Choose “VMware Workstation for Personal Use”
-
-Once logged in:
-
-Navigate to the Workstation Pro section.
-
-Select Personal Use License (free tier option).
+Choose VMware Workstation 17 for Personal Use
 
 Download the installer for your system.
 </p>
