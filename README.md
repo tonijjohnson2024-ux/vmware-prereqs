@@ -9,7 +9,7 @@ Completing these steps ensures your system is ready for virtualization labs and 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install VMware Workstation with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Install VMware Workstation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
