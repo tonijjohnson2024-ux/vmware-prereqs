@@ -8,7 +8,7 @@ This project provides a step-by-step guide for installing VMware Workstation Pro
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Install VMware Workstation with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
