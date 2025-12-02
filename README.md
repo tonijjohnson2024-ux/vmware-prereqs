@@ -1,5 +1,5 @@
 <p align="center">
-<img src="vmware.jpg"/>
+<img src="vmwareworks.png"/>
 </p>
 
 <h1>VMware Workstation - Prerequisites and Installation</h1>
