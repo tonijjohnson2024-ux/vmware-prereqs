@@ -33,7 +33,7 @@ This project provides a step-by-step guide for installing VMware Workstation Pro
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="vmwreg.png"/>
 </p>
 <p>
   
