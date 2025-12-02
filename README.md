@@ -45,13 +45,9 @@ Create a profile / user account.
 
 Log in to the portal.
 
-### Download VMware Workstation
-
 Choose VMware Workstation 17 for Personal Use
 
 Download the installer for your system.
-
-Go to download file on your computer click the download and click next until download starts
 
 </p>
 <br />
@@ -62,7 +58,10 @@ Go to download file on your computer click the download and click next until dow
 <p>
 
 ### Install VMware Workstation Pro
-Locate the downloaded installer (.exe) in your Downloads folder.
+
+Locate the downloaded installer in your Downloads folder.
+
+<img src="vmwdwnld.png"/>
 
 Right-click → Run as Administrator
 
