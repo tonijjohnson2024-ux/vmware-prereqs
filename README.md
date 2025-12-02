@@ -12,21 +12,23 @@ This project provides a step-by-step guide for installing VMware Workstation Pro
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- VMware Workstation Pro
+- Windows Server 2022
+- Windows 10/11 host
 
-<h2>Operating Systems Used </h2>
+<h2>Documentation and Rescources</h2>
 
-- Windows 10</b> (21H2)
+[VMware Workstation Pro Installation Guide](https://knowledge.broadcom.com/external/article?articleNumber=368667)
+
+[Windows Server 2022 ISO](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022)
+
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Host system requirements
+- Minimum RAM and disk
+- VMware account
+- Windows Server 2022 ISO download
 
 <h2>Installation Steps</h2>
 
@@ -34,7 +36,24 @@ This project provides a step-by-step guide for installing VMware Workstation Pro
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+### 1. Create a VMware Account 
+
+Open the VMware website [Broadcom portal](https://profile.broadcom.com/web/registration).
+
+Create a profile / user account.
+
+Log in to the portal.
+
+Choose “VMware Workstation for Personal Use”
+
+Once logged in:
+
+Navigate to the Workstation Pro section.
+
+Select Personal Use License (free tier option).
+
+Download the installer for your system.
 </p>
 <br />
 
