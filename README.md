@@ -3,8 +3,8 @@
 </p>
 
 <h1>VMware Workstation - Prerequisites and Installation</h1>
-This project covers the prerequisites for installing **VMware Workstation Pro** and preparing a **Windows Server 2022 ISO** for use in a virtualized lab environment.  
-Completing these steps ensures your system is ready for virtualization labs and foundational IT exercises as part of the **CourseCareers IT Certification** program.<br />
+This project covers the prerequisites for installing VMware Workstation Pro and preparing a Windows Server 2022 ISO for use in a virtualized lab environment.  
+Completing these steps ensures your system is ready for virtualization labs and foundational IT exercises as part of the CourseCareers IT Certification program.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -99,6 +99,18 @@ Download time: 5–10 minutes (depending on internet speed)
 You should now see the Windows Server 2022 ISO file in your Downloads folder.
 
 <img src="server.png"/>
+
+## Next Steps
+
+This README covers only the prerequisites for installing VMware Workstation Pro and preparing a Windows Server 2022 ISO.  
+Future steps will be part of other lab projects, including:
+
+- Installing VMware Workstation Pro on the host machine  
+- Creating and configuring a Windows Server 2022 virtual machine  
+- Installing Windows Server 2022 inside the VM  
+- Post-installation configuration (VMware Tools, snapshots, network settings, roles/features)
+
+These topics will be documented in separate project guides as the lab series progresses.
 
 </p>
 <br />
